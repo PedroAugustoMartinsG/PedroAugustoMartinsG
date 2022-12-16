@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Bibliotecas: <strong>Numpy, Pandas, Regex.</strong>
+  💼 Bibliotecas: <strong>Matplotlib, Numpy, Pandas, Scikit-Learn, Seaborn.</strong>
 </p>
 
 
