@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Estou cursando o sexto semestre do Bacharelado em Sistemas de Informação na USP.<br>
-  Atualmente, estou aprofundando os meus conhecimentos em <strong>Python</strong>.
+  Atualmente, estou aprofundando os meus conhecimentos em <strong>Análise e Ciência de Dados</strong>.
 </p>
 
 <p align="left">
