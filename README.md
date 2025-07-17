@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Estou cursando o sexto semestre do Bacharelado em Sistemas de Informação na USP.<br>
+  Estou cursando o oitavo semestre do Bacharelado em Sistemas de Informação na USP.<br>
   Atualmente, estou aprofundando os meus conhecimentos em <strong>Análise e Ciência de Dados</strong>.
 </p>
 
